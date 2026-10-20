@@ -1,4 +1,3 @@
-//Autor: Luiz Bernardino da Silva Neto(2026003495)
 package arena;
 
 public class Guerreiro extends Personagem{
